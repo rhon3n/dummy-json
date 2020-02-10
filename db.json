@@ -1,0 +1,42 @@
+ {
+   "characters": [
+      {
+        "name": "Rhynn",
+        "abilities": {
+          "riptWalker": 2,
+          "dreamReader": 3,
+          "peaceMaker": 3,
+          "shadowCreeper": 4
+        },
+        "alter": {
+          "conjuration": '"Tiny Soldier Over Under"',
+          "active": false,
+          "movement": 4,
+          "psychoBoost": 3,
+          "name": "Thialnos",
+          "nickname": "The Wanderer"
+        },
+        "alliances": {
+          "qaNoth": 3,
+          "meldonia": 4,
+          "sanders": 9,
+          "nordmann": 3
+        }
+      },
+      {
+        "name": "beep bop",
+        "abilities": { "peaceMaker": 1 },
+        "alter": { "name": null }
+      },
+      {
+        "name": "torby stebbs",
+        "abilities": { "peaceMaker": 3 },
+        "alter": { "name": "Nelmis" }
+      },
+      {
+        "name": "alisovian",
+        "abilities": { "peaceMaker": 5 },
+        "alter": { "name": null }
+      }
+    ]
+}
