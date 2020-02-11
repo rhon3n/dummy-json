@@ -9,7 +9,7 @@
           "shadowCreeper": 4
         },
         "alter": {
-          "conjuration": '"Tiny Soldier Over Under"',
+          "conjuration": "\"Tiny Soldier Over Under\"",
           "active": false,
           "movement": 4,
           "psychoBoost": 3,
