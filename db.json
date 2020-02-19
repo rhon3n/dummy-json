@@ -31,7 +31,7 @@
       {
         "name": "torby stebbs",
         "abilities": { "peaceMaker": 3 },
-        "alter": { "name": "Nelmis" }
+        "alter": { "name": "Nelmis", "conjuration": "\"Deep Speed\"" }
       },
       {
         "name": "alisovian",
